@@ -15,7 +15,11 @@
 	<descriptionlist>
 		<description>Filza File Manager</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>filza.jpg</image>
+		<screenshot>
+</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
