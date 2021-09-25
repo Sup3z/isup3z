@@ -16,9 +16,9 @@
 		<description>Filza File Manager</description>
 	</descriptionlist>
 #	<screenshots>
-		<screenshot>
-			<image>filza.png</image>
-		<screenshot>
+#		<screenshot>
+#			<image>filza.png</image>
+#		<screenshot>
 #	 </screenshots>
 	<changelog>
 		<change>Initial release</change>
