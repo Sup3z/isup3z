@@ -1,6 +1,6 @@
 <package>
 	<id>com.isup3z.filza</id>
-	<name>Filza File Manager ios14</name>
+	<name>Filza File Manager</name>
 	<version>3.9.0-2k</version>
 	<compatibility>
 		<firmware>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Filza File Manager</description>
+		<description>Filza File Manager ios14</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
