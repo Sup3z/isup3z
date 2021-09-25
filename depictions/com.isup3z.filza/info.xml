@@ -4,8 +4,8 @@
 	<version>3.9.0-2k</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>14.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<maxiOS>14.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -15,11 +15,7 @@
 	<descriptionlist>
 		<description>Filza File Manager</description>
 	</descriptionlist>
-#	<screenshots>
-#		<screenshot>
-#			<image>filza.png</image>
-#		<screenshot>
-#	 </screenshots>
+	<screenshots></screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
