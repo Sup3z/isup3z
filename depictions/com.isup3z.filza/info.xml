@@ -1,0 +1,23 @@
+<package>
+	<id>com.isup3z.filza</id>
+	<name>Filza File Manager ios14</name>
+	<version>3.9.0-2k</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Filza File Manager</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
