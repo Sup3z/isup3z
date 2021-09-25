@@ -2,7 +2,6 @@ Package: com.isup3z.filza
 Version: 3.9.0-2k
 Section: Tweaks
 Maintainer: iSup3z <isup3z@icloud.com>
-Depends: firmware (>14.3)
 Architecture: iphoneos-arm
 Filename: ./debs/filza_3.9.0-2k.deb
 Size: 13148658
